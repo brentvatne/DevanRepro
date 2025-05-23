@@ -1,6 +1,4 @@
 {
-  "name": "ExpoIssueApp",
-  "displayName": "ExpoIssueApp",
   "ios": {
     "bundleIdentifier": "com.brents.expoissueapp"
   },
