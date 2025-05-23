@@ -9,9 +9,20 @@
     "start": "react-native start",
     "test": "jest"
   },
+  "expo": {
+    "install": {
+      "exclude": [
+        "react-native",
+        "react",
+        "@types/react",
+        "@types/react-native",
+        "typescript"
+      ]
+    }
+  },
   "dependencies": {
     "react": "18.3.1",
-    "react-native": "0.75.1",
+    "react-native": "0.75.5",
     "expo": "~51.0.0",
     "expo-updates": "~0.25.28"
   },

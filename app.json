@@ -1,4 +1,18 @@
 {
   "name": "ExpoIssueApp",
-  "displayName": "ExpoIssueApp"
+  "displayName": "ExpoIssueApp",
+  "ios": {
+    "bundleIdentifier": "com.brents.expoissueapp"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "73242da1-1f68-4d85-9bc1-b69e3206be33"
+    }
+  },
+  "owner": "brents",
+  "runtimeVersion": "1.0.0",
+  "updates": {
+    "url": "https://u.expo.dev/73242da1-1f68-4d85-9bc1-b69e3206be33"
+  },
+  "android": {}
 }
